@@ -7,7 +7,7 @@
 ## 🎓 Sobre mim
 
 - 📚 Cursando **Engenharia de Software** na **UNICID - (Universidade Cidade de São Paulo)**
-- 💻 Estudando **desenvolvimento Front-End** e **Mobile**
+- 💻 Estudando **desenvolvimento Front-End**
 - 🎯 Busco escrever código limpo e interfaces modernas
 - 🧠 Apaixonado por tecnologia, design e boas práticas
 
